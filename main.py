@@ -136,7 +136,7 @@ if __name__ == '__main__':
     puzzle[(9, 6)] = 5
     puzzle[(9, 9)] = 7
 
-    # puzzle[(1, 3)] = 9
+    # puzzle[(1, 3)] = 8
 
     grid = defaultdict(list)
     possible: dict = dict()
